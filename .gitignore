@@ -5,3 +5,5 @@ data/
 .vscode/
 **.zip
 Lab3/Lab3 Dataset
+*/models/*
+*/csv/*
